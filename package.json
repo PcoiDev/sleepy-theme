@@ -1,0 +1,27 @@
+{
+  "name": "pcoi-theme",
+  "displayName": "Pcoi's Theme",
+  "description": "GitHub Dark syntax colors on Tokyo Night UI",
+  "version": "1.0.0",
+  "publisher": "PcoiDev",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pcoi's Theme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-mode.json"
+      },
+      {
+        "label": "Pcoi's Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/light-mode.json"
+      }
+    ]
+  }
+}
