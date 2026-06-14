@@ -23,7 +23,3 @@ Then reload VSCode (`Ctrl+Shift+P` → `Developer: Reload Window`) and select th
 "editor.fontFamily": "JetBrains Mono",
 "editor.fontLigatures": true
 ```
-
-## License
-
-[MIT](LICENSE)
