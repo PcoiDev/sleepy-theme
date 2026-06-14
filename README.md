@@ -4,8 +4,8 @@ A VSCode theme combining **[GitHub Theme](https://marketplace.visualstudio.com/i
 
 ## Variants
 
-- **Pcoi's Theme Dark** — Dark variant (Tokyo Night backgrounds + GitHub syntax)
-- **Pcoi's Theme Light** — Light variant (Tokyo Night Light + GitHub syntax)
+- **Pcoi's Theme Dark**: Dark variant (Tokyo Night backgrounds + GitHub syntax)
+- **Pcoi's Theme Light**: Light variant (Tokyo Night Light + GitHub syntax)
 
 ## Installation
 
