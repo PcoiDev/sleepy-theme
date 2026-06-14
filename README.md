@@ -15,7 +15,7 @@ Copy the `pcoi-theme` folder into your VSCode extensions directory:
 C:\Users\<your-user>\.vscode\extensions\pcoi-theme-1.0.0\
 ```
 
-Then reload VSCode (`Ctrl+Shift+P` → `Developer: Reload Window`) and select the theme via `Preferences: Color Theme`.
+Then reload VSCode (`Ctrl+Shift+P` → `Developer: Reload Window`) and select the theme via `Preferences: Color Theme` or in your extensions.
 
 ## Recommended Settings
 
