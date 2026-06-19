@@ -13,14 +13,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Pcoi's Theme Dark",
+        "label": "Pcoi's Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/dark-mode.json"
-      },
-      {
-        "label": "Pcoi's Theme Light",
-        "uiTheme": "vs",
-        "path": "./themes/light-mode.json"
+        "path": "./themes/pcoi.json"
       }
     ]
   }
