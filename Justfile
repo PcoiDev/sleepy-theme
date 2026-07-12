@@ -3,12 +3,12 @@ set shell := ["powershell.exe", "-c"]
 default:
     just --list
 
-compile:
-    vsce package
-    code --install-extension pcoi-theme-*.vsix --allow-missing-repository
-
-package:
-    vsce package
+build:
+    vsce package --allow-missing-repository
 
 install:
-    code --install-extension pcoi-theme-*.vsix --allow-missing-repository
+    code --install-extension (Get-Item sleepy-theme-*.vsix).FullName --force
+
+deploy:
+    just build
+    just install

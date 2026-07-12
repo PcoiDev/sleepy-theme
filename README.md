@@ -1,25 +1,81 @@
-# Pcoi's Theme
+<p align="center">
+  <p align="center">
+	<img src="icons/128px.png" alt="Logo" width="128" />
+  </p>
+  <h1 align="center"><b>Sleepy Theme</b></h1>
+</p>
 
-A VSCode theme combining **[GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)** syntax colors with **[Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)** UI aesthetics.
+<div align="center">
 
-## Variants
+[![GitHub License](https://img.shields.io/github/license/PcoiDev/sleepy-theme?style=for-the-badge)](LICENSE)
+![GitHub Stars](https://img.shields.io/github/stars/PcoiDev/sleepy-theme?style=for-the-badge&logo=github)
 
-- **Pcoi's Theme Dark**: Dark variant (Tokyo Night backgrounds + GitHub syntax)
-- **Pcoi's Theme Light**: Light variant (Tokyo Night Light + GitHub syntax)
+</div>
 
-## Installation
+A VS Code theme: **GitHub Dark** syntax colors with a deep neutral background with a single soft accent, or... the total opposite.
 
-Copy the `pcoi-theme` folder into your VSCode extensions directory:
+## 📷 Previews
+
+<details>
+  <summary>🌙 Sleepy</summary>
+  <img src="assets/sleepy.png"/>
+</details>
+<details>
+  <summary>☀️ Awake</summary>
+  <img src="assets/awake.png"/>
+  I'm gonna revamp the light theme soon (at least the blue color), even if nobody use this if you have any suggestion, feel free to pr
+</details>
+
+## 🔧 Usage
+
+### Releases
+
+1. Download the `.vsix` file from the [Releases](https://github.com/PcoiDev/pcoi-theme/releases) page.
+2. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`) in VS Code.
+3. Run the `Extensions: Install from VSIX...` command.
+4. `Ctrl+Shift+P` → `Preferences: Color Theme` → select **Sleepy** or **Awake**.
+
+### From source
 
 ```
-C:\Users\<your-user>\.vscode\extensions\pcoi-theme-1.0.0\
+just deploy
 ```
 
-Then reload VSCode (`Ctrl+Shift+P` → `Developer: Reload Window`) and select the theme via `Preferences: Color Theme` or in your extensions.
+This builds the `.vsix` with `vsce` and installs it via `code --install-extension`.
 
-## Recommended Settings
+## 🎨 Variants
 
-```json
-"editor.fontFamily": "JetBrains Mono",
-"editor.fontLigatures": true
+- **Sleepy** — deep black-blue background with a single soft blue accent
+- **Awake** — the light counterpart of Sleepy
+
+## ✨ Features
+
+- GitHub Dark–derived syntax highlighting, full semantic highlighting support
+- Consistent hover/selection surfaces across editor, panel, lists, and buttons — no mismatched grays
+
+## 🙌 Recommendations
+
+### Settings
+
+```jsonc
+{
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+}
 ```
+
+### Icon theme
+
+[Charmed Icons](https://marketplace.visualstudio.com/items?itemName=littensy.charmed-icons) by littensy pairs especially well with this theme.
+
+---
+
+<p align="center">
+Sleepy Theme is released under the <a href="LICENSE">MIT License</a>.
+</p>
+
+<div align="center">
+
+[![MIT License](https://img.shields.io/github/license/PcoiDev/sleepy-theme?style=for-the-badge)](LICENSE)
+
+</div>

@@ -1,9 +1,15 @@
 {
-  "name": "pcoi-theme",
-  "displayName": "Pcoi's Theme",
-  "description": "GitHub Dark syntax colors on Tokyo Night UI",
+  "name": "sleepy-theme",
+  "displayName": "Sleepy Theme",
+  "description": "GitHub Dark syntax colors with a deep black-blue background with a single soft blue accent or... the total opposite",
+  "icon": "icons/128px.png",
+  "license": "MIT",
   "version": "1.0.0",
   "publisher": "PcoiDev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PcoiDev/pcoi-theme.git"
+  },
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -13,9 +19,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Pcoi's Theme",
+        "label": "Sleepy",
         "uiTheme": "vs-dark",
-        "path": "./themes/pcoi.json"
+        "path": "./themes/sleepy.json"
+      },
+      {
+        "label": "Awake",
+        "uiTheme": "vs",
+        "path": "./themes/awake.json"
       }
     ]
   }

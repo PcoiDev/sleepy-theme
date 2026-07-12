@@ -1,7 +1,7 @@
 {
   "files.exclude": {
-    "LICENSE": true,
-    "README.md": true,
+    "LICENSE": false,
+    "README.md": false,
     "justfile": true,
     "*.vsix": true
   }
