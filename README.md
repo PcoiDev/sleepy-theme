@@ -7,8 +7,8 @@
 
 <div align="center">
 
-[![GitHub License](https://img.shields.io/github/license/PcoiDev/sleepy-theme?style=for-the-badge)](LICENSE)
-![GitHub Stars](https://img.shields.io/github/stars/PcoiDev/sleepy-theme?style=for-the-badge&logo=github)
+[![GitHub License](https://img.shields.io/github/license/PcoiDev/sleepy-theme?style=for-the-badge&cacheSeconds=1)](LICENSE)
+![GitHub Stars](https://img.shields.io/github/stars/PcoiDev/sleepy-theme?style=for-the-badge&logo=github&cacheSeconds=1)
 
 </div>
 
@@ -76,6 +76,6 @@ Sleepy Theme is released under the <a href="LICENSE">MIT License</a>.
 
 <div align="center">
 
-[![MIT License](https://img.shields.io/github/license/PcoiDev/sleepy-theme?style=for-the-badge)](LICENSE)
+[![MIT License](https://img.shields.io/github/license/PcoiDev/sleepy-theme?style=for-the-badge&cacheSeconds=1)](LICENSE)
 
 </div>
