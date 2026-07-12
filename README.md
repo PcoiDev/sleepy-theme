@@ -12,7 +12,7 @@
 
 </div>
 
-A VS Code theme: **GitHub Dark** syntax colors with a deep neutral background with a single soft accent, or... the total opposite
+Another VSCode theme with [**GitHub Dark**](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) syntax colors with a deep neutral background with a single soft accent, or... the total opposite
 
 ## 📷 Previews
 
@@ -23,7 +23,7 @@ A VS Code theme: **GitHub Dark** syntax colors with a deep neutral background wi
 <details>
   <summary>☀️ Awake</summary>
   <img src="assets/awake.png"/>
-  I'm gonna revamp the light theme soon (at least the blue color), even if nobody use this if you have any suggestion, feel free to pr
+  I'm gonna revamp the light theme soon (at least the blue color), even if nobody use this if you have any suggestion, feel free to do a pr
 </details>
 
 ## 🔧 Usage
@@ -50,7 +50,7 @@ This builds the `.vsix` with `vsce` and installs it via `code --install-extensio
 
 ## ✨ Features
 
-- GitHub Dark–derived syntax highlighting, full semantic highlighting support
+- GitHub Dark-derived syntax highlighting, full semantic highlighting support
 - Consistent hover/selection surfaces across editor, panel, lists, and buttons; no mismatched grays
 
 ## 🙌 Recommendations
