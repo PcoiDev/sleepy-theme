@@ -4,7 +4,7 @@
   "description": "A VSCode theme with GitHub Dark syntax colors with a deep neutral background with a single soft accent, or.. quite the opposite",
   "icon": "icons/128px.png",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "PcoiDev",
   "repository": {
     "type": "git",
