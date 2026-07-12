@@ -12,7 +12,7 @@
 
 </div>
 
-A VS Code theme: **GitHub Dark** syntax colors with a deep neutral background with a single soft accent, or... the total opposite.
+A VS Code theme: **GitHub Dark** syntax colors with a deep neutral background with a single soft accent, or... the total opposite
 
 ## 📷 Previews
 
@@ -30,7 +30,7 @@ A VS Code theme: **GitHub Dark** syntax colors with a deep neutral background wi
 
 ### Releases
 
-1. Download the `.vsix` file from the [Releases](https://github.com/PcoiDev/pcoi-theme/releases) page.
+1. Download the `.vsix` file from the [Releases](https://github.com/PcoiDev/sleepy-theme/releases) page.
 2. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`) in VS Code.
 3. Run the `Extensions: Install from VSIX...` command.
 4. `Ctrl+Shift+P` → `Preferences: Color Theme` → select **Sleepy** or **Awake**.
@@ -45,13 +45,13 @@ This builds the `.vsix` with `vsce` and installs it via `code --install-extensio
 
 ## 🎨 Variants
 
-- **Sleepy** — deep black-blue background with a single soft blue accent
-- **Awake** — the light counterpart of Sleepy
+- **Sleepy**: deep black-blue background with a single soft blue accent
+- **Awake**: the light counterpart of Sleepy
 
 ## ✨ Features
 
 - GitHub Dark–derived syntax highlighting, full semantic highlighting support
-- Consistent hover/selection surfaces across editor, panel, lists, and buttons — no mismatched grays
+- Consistent hover/selection surfaces across editor, panel, lists, and buttons; no mismatched grays
 
 ## 🙌 Recommendations
 
