@@ -12,7 +12,7 @@
 
 </div>
 
-A VSCode theme with [**GitHub Dark**](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) syntax colors with a deep neutral background with a single soft accent, or... quite the opposite
+A VSCode theme with [**GitHub Dark**](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) syntax colors with a deep neutral background with a single soft accent, or.. quite the opposite
 
 ## 📷 Previews
 

@@ -1,7 +1,7 @@
 {
   "name": "sleepy-theme",
   "displayName": "Sleepy Theme",
-  "description": "GitHub Dark syntax colors with a deep black-blue background with a single soft blue accent or... the total opposite",
+  "description": "A VSCode theme with GitHub Dark syntax colors with a deep neutral background with a single soft accent, or.. quite the opposite",
   "icon": "icons/128px.png",
   "license": "MIT",
   "version": "1.0.0",
