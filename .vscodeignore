@@ -1,0 +1,9 @@
+.vscode/**
+.github/**
+assets/**
+examples/**
+.git/**
+.gitignore
+justfile
+.vscodeignore
+*.vsix

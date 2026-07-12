@@ -1,8 +1,9 @@
 {
   "files.exclude": {
+    ".github": false,
+    "justfile": true,
     "LICENSE": false,
     "README.md": false,
-    "justfile": true,
     "*.vsix": true
   }
 }
